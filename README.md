@@ -8,3 +8,5 @@ In the process of building this platform, i learnt more about:
 - You'll achieve mastery using Material UI (version 5)
 - Perfectly placed media queries for satisfactory responsiveness on all devices
 - And most importantly, fetching data from unlimited sources using RapidAPI.
+
+i am very much exiceted about this because i always wanted to implement material ui in my projects. 
